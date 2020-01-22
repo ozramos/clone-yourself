@@ -1,0 +1,22 @@
+{
+  "name": "clone-yourself",
+  "version": "1.0.0",
+  "description": "Use image segmentation to clone multiple copies of yourself onto a canvas",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozramos/clone-yourself.git"
+  },
+  "author": "Oz Ramos <heyozramos@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ozramos/clone-yourself/issues"
+  },
+  "homepage": "https://github.com/ozramos/clone-yourself#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
